@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <center>
+        <div>
+            <p>Atacando os azuis.</p>
+            <p>Você consegue atacar, mas ao fazer isso seu braço fica preso ao perfurar os azuis.</p>
+            <p>Além disso os vermelhos começam a te atacar enquanto preso.</p>
+            <p>Assim voce acaba perdendo a consciência.</p> 
+        </div>
+        <div>
+            <p>Você perde a batalha.</p>
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpT3dCUeVf1raO6sDQXUt6IYqdJziPpg6IUA&s" alt="game over" width="280px">
+        </div>
+        <div>
+            <a href="INTRO.html">reiniciar</a>
+        </div>
+    </center>
+</body>
+</html>
